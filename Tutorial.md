@@ -5,7 +5,7 @@
 You should have a kit which looks similar to this
 (picture coming soon)
 
-Each kit comes with the following peices:
+Each kit comes with the following pieces:
 
 A) Tree circuit 1 - this is the board which will have the battery holders attached.
 
