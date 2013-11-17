@@ -3,7 +3,8 @@
 ### Step 1 - Your kit
 
 You should have a kit which looks similar to this
-(picture coming soon)
+
+![001]
 
 Each kit comes with the following pieces:
 
@@ -99,6 +100,7 @@ Just connect the batteries, positive side up (the side with the writing). To rem
 
 
 
+[001]: https://raw.github.com/Cyberlane/Tree-Kit-Trinket/master/img/001.jpg
 [002]: https://raw.github.com/Cyberlane/Tree-Kit-Trinket/master/img/002.jpg
 [003]: https://raw.github.com/Cyberlane/Tree-Kit-Trinket/master/img/003.jpg
 [004]: https://raw.github.com/Cyberlane/Tree-Kit-Trinket/master/img/004.jpg
