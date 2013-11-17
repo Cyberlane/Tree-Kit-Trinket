@@ -91,6 +91,8 @@ Once the pads are connected, it will look like this:
 
 ## Step 5 - The finished product
 
+Just connect the batteries, positive side up (the side with the writing). To remove the battery, you need some nails or needle nose pliers, and you need only pinch the square side of the battery holder to release the battery.
+
 ![019]
 
 ![020]
